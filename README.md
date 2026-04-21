@@ -50,6 +50,21 @@ A QQ plot showed that the data does not follow a normal distribution. Therefore,
 
 The hypothesis testing results showed that the p-value (0.384) is greater than the 5% significance level, meaning we fail to reject the null hypothesis.
 
+## 📊 Interactive Dashboard: A/B Test Analysis
+The core of this project is a Power BI dashboard designed to provide real-time monitoring of landing page performance during an experimental phase.
+
+Key Visuals & Metrics
+KPI Overview: Tracks Total Participants (291K) and ensures a balanced split between the Control (145K) and Test (145K) groups.
+
+Conversion Lift: A dynamic card highlighting the performance delta. In this snapshot, the new page shows a -0.16% lift compared to the baseline.
+
+Conversion Rate by Page: A side-by-side bar chart comparing the success frequency (12.04% vs 11.88%).
+
+Traffic Volume per Minute: An area/line chart used to verify that traffic was distributed evenly throughout the 60-minute test window, ensuring no technical glitches 
+biased the data.
+<img width="1168" height="659" alt="Screenshot 2026-04-21 173043" src="https://github.com/user-attachments/assets/9f374ec4-2749-486c-b9a0-7fb11e47a815" />
+
+
 ## 💡 Final Insight
 
 There is no statistically significant difference in conversion rates between the old and new webpages. Based on the available data, the new page does not provide enough improvement to justify replacing the existing page.
