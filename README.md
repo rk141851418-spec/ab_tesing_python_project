@@ -54,13 +54,17 @@ The hypothesis testing results showed that the p-value (0.384) is greater than t
 The core of this project is a Power BI dashboard designed to provide real-time monitoring of landing page performance during an experimental phase.
 
 Key Visuals & Metrics
-KPI Overview: Tracks Total Participants (291K) and ensures a balanced split between the Control (145K) and Test (145K) groups.
+### KPI Overview: 
+Tracks Total Participants (291K) and ensures a balanced split between the Control (145K) and Test (145K) groups.
 
-Conversion Lift: A dynamic card highlighting the performance delta. In this snapshot, the new page shows a -0.16% lift compared to the baseline.
+### Conversion Lift:
+A dynamic card highlighting the performance delta. In this snapshot, the new page shows a -0.16% lift compared to the baseline.
 
-Conversion Rate by Page: A side-by-side bar chart comparing the success frequency (12.04% vs 11.88%).
+### Conversion Rate by Page:
+A side-by-side bar chart comparing the success frequency (12.04% vs 11.88%).
 
-Traffic Volume per Minute: An area/line chart used to verify that traffic was distributed evenly throughout the 60-minute test window, ensuring no technical glitches 
+### Traffic Volume per Minute:
+An area/line chart used to verify that traffic was distributed evenly throughout the 60-minute test window, ensuring no technical glitches 
 biased the data.
 <img width="1168" height="659" alt="Screenshot 2026-04-21 173043" src="https://github.com/user-attachments/assets/9f374ec4-2749-486c-b9a0-7fb11e47a815" />
 
